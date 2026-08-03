@@ -134,31 +134,31 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #41b883; 
-  width: 18.721%;
+  width: 18.718%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 17.798%;
+  width: 17.796%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 14.814%;
+  width: 14.812%;
 " class="progress-item"></span><span style="
   background-color: #239dad; 
-  width: 9.285%;
+  width: 9.284%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
   width: 6.546%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 6.455%;
+  width: 6.454%;
 " class="progress-item"></span><span style="
   background-color: #00B4AB; 
-  width: 5.981%;
+  width: 5.980%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 4.972%;
+  width: 4.971%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 4.749%;
+  width: 4.748%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
   width: 2.640%;
@@ -167,7 +167,7 @@ div.ellipsis {
   width: 2.072%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
-  width: 1.594%;
+  width: 1.607%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
   width: 1.160%;
@@ -424,7 +424,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PowerShell</span>
-  <span class="percent">1.59%</span>
+  <span class="percent">1.61%</span>
 </li>
 <li style="animation-delay: 1950ms;">
   <svg 
