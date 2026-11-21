@@ -146,7 +146,7 @@ div.ellipsis {
   width: 9.049%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 8.750%;
+  width: 8.749%;
 " class="progress-item"></span><span style="
   background-color: #239dad; 
   width: 5.675%;
@@ -519,7 +519,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PowerShell</span>
-  <span class="percent">0.70%</span>
+  <span class="percent">0.71%</span>
 </li>
 <li style="animation-delay: 2700ms;">
   <svg 
